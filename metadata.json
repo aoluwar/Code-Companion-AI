@@ -1,0 +1,5 @@
+{
+  "name": "Code Companion AI",
+  "description": "An AI agent that provides expert coding assistance for Python and Rust. Ask questions, get code examples, and learn best practices from your AI pair programmer.",
+  "requestFramePermissions": []
+}
